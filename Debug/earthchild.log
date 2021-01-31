@@ -1,0 +1,107 @@
+﻿  entityobject.cpp
+D:\dev\earthchild\src\include\objecthashmap.h(13,60): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(13,83): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19,53): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(19,64): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19): error C2062:  type 'unknown-type' unexpected
+D:\dev\earthchild\src\include\objecthashmap.h(19,77): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\dev\earthchild\src\include\objecthashmap.h(21,14): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(21,25): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C2143:  syntax error: missing ';' before '*'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\dev\earthchild\src\include\objecthashmap.h(22,59): error C2238:  unexpected token(s) preceding ';'
+D:\dev\earthchild\src\include\objecthashmap.h(24,26): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(25,29): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(31,46): error C2065:  'GameObject': undeclared identifier
+  gameobject.cpp
+D:\dev\earthchild\src\include\objecthashmap.h(31,57): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(13,60): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(13,83): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19,53): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(19,64): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19): error C2062:  type 'unknown-type' unexpected
+D:\dev\earthchild\src\include\objecthashmap.h(19,77): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\dev\earthchild\src\include\objecthashmap.h(21,14): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(21,25): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C2143:  syntax error: missing ';' before '*'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\dev\earthchild\src\include\objecthashmap.h(22,59): error C2238:  unexpected token(s) preceding ';'
+D:\dev\earthchild\src\include\objecthashmap.h(24,26): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(25,29): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(31,46): error C2065:  'GameObject': undeclared identifier
+  itemobject.cpp
+D:\dev\earthchild\src\include\objecthashmap.h(31,57): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(13,60): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(13,83): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19,53): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(19,64): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19): error C2062:  type 'unknown-type' unexpected
+D:\dev\earthchild\src\include\objecthashmap.h(19,77): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\dev\earthchild\src\include\objecthashmap.h(21,14): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(21,25): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C2143:  syntax error: missing ';' before '*'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\dev\earthchild\src\include\objecthashmap.h(22,59): error C2238:  unexpected token(s) preceding ';'
+D:\dev\earthchild\src\include\objecthashmap.h(24,26): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(25,29): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(31,46): error C2065:  'GameObject': undeclared identifier
+  movableobject.cpp
+D:\dev\earthchild\src\include\objecthashmap.h(31,57): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(13,60): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(13,83): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19,53): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(19,64): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19): error C2062:  type 'unknown-type' unexpected
+D:\dev\earthchild\src\include\objecthashmap.h(19,77): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\dev\earthchild\src\include\objecthashmap.h(21,14): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(21,25): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C2143:  syntax error: missing ';' before '*'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\dev\earthchild\src\include\objecthashmap.h(22,59): error C2238:  unexpected token(s) preceding ';'
+D:\dev\earthchild\src\include\objecthashmap.h(24,26): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(25,29): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(31,46): error C2065:  'GameObject': undeclared identifier
+  gamestate.cpp
+D:\dev\earthchild\src\include\objecthashmap.h(31,57): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\gameobjects\gameobject.h(25,31): error C2061:  syntax error: identifier 'ObjectHashmap'
+D:\dev\earthchild\src\include\gameobjects\gameobject.h(31,14): error C2065:  'ObjectHashmap': undeclared identifier
+  objecthashmap.cpp
+D:\dev\earthchild\src\include\gameobjects\gameobject.h(31,28): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\gameobjects\gameobject.h(25,31): error C2061:  syntax error: identifier 'ObjectHashmap'
+D:\dev\earthchild\src\include\gameobjects\gameobject.h(31,14): error C2065:  'ObjectHashmap': undeclared identifier
+D:\dev\earthchild\src\include\gameobjects\gameobject.h(31,28): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\objecthashmap.cpp(48,22): warning C4018:  '<': signed/unsigned mismatch
+  player.cpp
+D:\dev\earthchild\src\objecthashmap.cpp(84,25): warning C4018:  '>': signed/unsigned mismatch
+D:\dev\earthchild\src\include\objecthashmap.h(13,60): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(13,83): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19,53): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(19,64): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19): error C2062:  type 'unknown-type' unexpected
+D:\dev\earthchild\src\include\objecthashmap.h(19,77): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\dev\earthchild\src\include\objecthashmap.h(21,14): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(21,25): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C2143:  syntax error: missing ';' before '*'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\dev\earthchild\src\include\objecthashmap.h(22,59): error C2238:  unexpected token(s) preceding ';'
+D:\dev\earthchild\src\include\objecthashmap.h(24,26): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(25,29): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(31,46): error C2065:  'GameObject': undeclared identifier
+  main.cpp
+D:\dev\earthchild\src\include\objecthashmap.h(31,57): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(13,60): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(13,83): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19,53): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(19,64): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(19): error C2062:  type 'unknown-type' unexpected
+D:\dev\earthchild\src\include\objecthashmap.h(19,77): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\dev\earthchild\src\include\objecthashmap.h(21,14): error C2065:  'GameObject': undeclared identifier
+D:\dev\earthchild\src\include\objecthashmap.h(21,25): error C2059:  syntax error: '>'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C2143:  syntax error: missing ';' before '*'
+D:\dev\earthchild\src\include\objecthashmap.h(22,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\dev\earthchild\src\include\objecthashmap.h(22,59): error C2238:  unexpected token(s) preceding ';'
+D:\dev\earthchild\src\include\objecthashmap.h(24,26): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(25,29): error C2061:  syntax error: identifier 'GameObject'
+D:\dev\earthchild\src\include\objecthashmap.h(31,46): error C2065:  'GameObject': undeclared identifier
+  Generating Code...
+D:\dev\earthchild\src\include\objecthashmap.h(31,57): error C2059:  syntax error: '>'
